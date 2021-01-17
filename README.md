@@ -1,5 +1,5 @@
 # Skadaddle-RPC
-Just an RPC i made out of bordem.
+Just an RPC i made out of bordem. Also, It when you click the boxs it won't work on your side, but if somebody else clicks them it'll redirct them to the link.
 
 # You must have DISCORD app open, i'll add discord canary and otehr bs in the future.
 
