@@ -1,7 +1,7 @@
 # Skadaddle-RPC
 Just an RPC i made out of bordem. Also, It when you click the boxs it won't work on your side, but if somebody else clicks them it'll redirct them to the link.
 
-# You must have DISCORD app open, i'll add discord canary and otehr bs in the future.
+# Updated it now it has better detection of apps and can detect canary for you horny mfs stop bothering me now, thank you and i love you mwah.
 
 ![](image1.png)
 ![](image2.png)
